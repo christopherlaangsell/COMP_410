@@ -1,0 +1,4 @@
+#,Time,%Passes,Change,Test,Pass,Partial,Fail,Untested
+0,Fri Jan 11 12:18:40 EST 2019,0,0,Assignment0Suite, , ,LoudTest- QuietTest- , ,
+1,Fri Jan 11 13:09:43 EST 2019,50,50,Assignment0Suite,QuietTest+ , ,LoudTest , ,
+2,Fri Jan 11 13:10:12 EST 2019,100,50,Assignment0Suite,LoudTest+ QuietTest , , , ,
